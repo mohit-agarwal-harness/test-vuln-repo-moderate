@@ -4,7 +4,7 @@
   "description": "Test repository with moderate-severity vulnerabilities",
   "main": "index.js",
   "dependencies": {
-    "lodash": "4.17.20",
+    "lodash": "4.17.22",
     "minimist": "1.2.5",
     "node-fetch": "2.6.0",
     "json5": "2.2.1",
