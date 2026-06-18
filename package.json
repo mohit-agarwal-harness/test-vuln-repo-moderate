@@ -4,13 +4,14 @@
   "description": "Test repository with moderate-severity vulnerabilities",
   "main": "index.js",
   "dependencies": {
-    "lodash": "4.17.22",
+    "lodash": "4.17.20",
     "minimist": "1.2.5",
     "node-fetch": "2.6.0",
     "json5": "2.2.1",
     "express": "4.17.1",
     "qs": "6.9.4",
     "semver": "7.3.7",
-    "nock": "14.0.11"
+    "nock": "14.0.11",
+    "react-hotkeys-hook": "4.6.1"
   }
 }
